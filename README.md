@@ -1,18 +1,25 @@
 # Hiba Almamoori — Professional Portfolio
 
-A personal portfolio website repository presenting selected web and AI-quality practice projects.
+A portfolio website repository presenting selected web-development work and AI-quality / Trust & Safety practice projects.
 
-## Website
-The portfolio page is available in `index.html`. Open the file in a modern browser to preview it locally.
+## Portfolio website
 
-## Selected work
-- [AI Output Evaluator Engine](https://github.com/hiba24-ian/AI--Output-Evaluator-Engine) — a rule-based baseline for checking explicit output requirements.
-- [AI Quality Lab — English & Arabic](https://github.com/hiba24-ian/i-quality-lab-english-arabic) — a bilingual human-review practice lab.
-- [LLM Safety & Content Moderation Dataset](https://github.com/hiba24-ian/llm-safety-content-moderation-dataset) — a keyword-rule auditing exercise.
-- [Active Directory Simulation Dashboard](https://github.com/hiba24-ian/active_directory_simulation_project) — a browser-based interface simulation.
+The website source is in `index.html`. Open the file in a modern browser to preview it locally.
 
-## Project scope
-This repository is a portfolio presentation. Individual projects document their own limitations and should be assessed on their actual implementation.
+## Selected projects
+
+| Project | Focus |
+| --- | --- |
+| [AI Output Evaluator Engine](https://github.com/hiba24-ian/AI--Output-Evaluator-Engine) · [Live Demo](https://ai-output-evaluator-engine.onrender.com) | Python rule-based output checks, automated tests, JSON/Markdown reporting, and an interactive Streamlit dashboard |
+| [AI Quality Lab — English & Arabic](https://github.com/hiba24-ian/i-quality-lab-english-arabic) | Bilingual human-review practice using a documented quality rubric |
+| [LLM Safety & Content Moderation](https://github.com/hiba24-ian/llm-safety-content-moderation-dataset) | Keyword-based moderation audit exercise with documented limitations |
+| [AI Prompt Evaluation Pipeline](https://github.com/hiba24-ian/ai-prompt-evaluation-pipeline) | Basic test-case and keyword checking workflow |
+| [Active Directory Simulation Dashboard](https://github.com/hiba24-ian/active_directory_simulation_project) | Browser-based interface simulation |
+
+## About this portfolio
+
+The repositories are practical portfolio projects and learning exercises. Each project documents its actual scope and limitations; rule-based examples are not presented as production AI systems or semantic evaluators.
 
 ## Author
+
 Hiba Almamoori
